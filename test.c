@@ -1,4 +1,6 @@
 #include<stdio.h>
 int main(void){
-	printf("testing\n");
+	printf("代码\n");
+        printf("修改\n");
+
 }
